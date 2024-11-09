@@ -1,3 +1,7 @@
+
+
+IGNORE THIS FILE
+
 import React, { useState } from 'react';
 import { Mic, StopCircle, Volume2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
